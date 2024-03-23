@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768989006511",
+    "project_id": "task-route-90fd2",
+    "storage_bucket": "task-route-90fd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768989006511:android:44acc051a03340ec0ba25a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4yHbTIW53hyor0ST4dAqzQpE3hdPnL9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
